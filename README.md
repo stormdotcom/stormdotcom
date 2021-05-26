@@ -5,7 +5,7 @@
     Sometimes I do python programming for building tools related to Pentesting
 
  🌱 I’m currently learning MERN Stack Development 
- 🙅‍♂️ I’m not looking to any collaborate.
+ 🙅‍♂️ I’m not looking to any collaboration.
 
 - 📫 Reach me on https://www.linkedin.com/in/ajmalnasumudeen/...
 - 📡 My Blog : https://notjustmachine.medium.com/
