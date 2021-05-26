@@ -4,7 +4,7 @@
  👀 I’m currently upto Web Development and Web Pentesting.
     Sometimes I do python programming for building tools related to Pentesting
 
- 🌱 I’m currently learning MERN Development 
+ 🌱 I’m currently learning MERN Stack Development 
  🙅‍♂️ I’m not looking to any collaborate.
 
 - 📫 Reach me on https://www.linkedin.com/in/ajmalnasumudeen/...
