@@ -2,7 +2,7 @@
  💻 Love Linux system | Adminstration & Networking
   
  👀 I’m currently upto Web Development and Web Pentesting.
-    Sometimes I do python programming for building tools realated to Pentest
+    Sometimes I do python programming for building tools related to Pentesting
 
  🌱 I’m currently learning MERN Development 
  🙅‍♂️ I’m not looking to any collaborate.
