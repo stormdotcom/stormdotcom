@@ -1,4 +1,5 @@
- 👋 Hi there, I’m Ajmal Nasumudeen aka (stormdotcom) 😎 
+![](source.gif)
+👋 Hi there, I’m Ajmal Nasumudeen aka (stormdotcom) 😎 
  💻 Love Linux system | Adminstration & Networking
   
  👀 I’m currently upto Web Development and Web Pentesting.
