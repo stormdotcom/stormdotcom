@@ -1,5 +1,5 @@
-![+++STORM+++](/net-eagle/source.gif)
-👋 Hi there, I’m Ajmal Nasumudeen aka (stormdotcom) 😎 
+![(/net-eagle/source.gif)
+👋 Hi there, I’m Ajmal Nasumudeen  😎 
  💻 Love Linux system | Adminstration & Networking
   
  👀 I’m currently upto Web Development and Web Pentesting.
