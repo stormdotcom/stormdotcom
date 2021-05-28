@@ -1,4 +1,4 @@
-![](/net-eagle/source.gif)
+![] net-eagle/source.gif
 👋 Hi there, I’m Ajmal Nasumudeen aka (stormdotcom) 😎 
  💻 Love Linux system | Adminstration & Networking
   
