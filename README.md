@@ -1,4 +1,4 @@
-![(/net-eagle/source.gif)
+
 👋 Hi there, I’m Ajmal Nasumudeen  😎 
  💻 Love Linux system | Adminstration & Networking
   
