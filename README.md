@@ -1,6 +1,7 @@
 
-👋 Hi there, I’m Ajmal Nasumudeen  😎 ##
-![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
+![Ajmal Nasumudee](https://metro.co.uk/wp-content/uploads/2015/02/giphy3.gif?quality=90&strip=all&zoom=1&resize=540%2C398)
+👋 Hi there, I’m Ajmal Nasumudeen  😎 
+
  💻 Love Linux system | Adminstration & Networking
   
  👀 I’m currently upto Web Development and Web Pentesting.
@@ -10,7 +11,7 @@
  🙅‍♂️ I’m not looking to any collaboration.
 
 - 📫 Reach me on https://www.linkedin.com/in/ajmalnasumudeen/...
-- 📡 My Blog : https://notjustmachine.medium.com/
+- 📡 My Blog : https://ajmal-nasumudeen.medium.com/
 
 <!---
 stormdotcom/stormdotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
