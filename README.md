@@ -10,6 +10,7 @@
     Sometimes I do python programming for building tools related to Pentesting
 
  🌱 I’m currently learning MERN Stack Development 
+ ![Ajmal Nasumudeen](https://tenor.com/view/developer-workstation-gif-19181813)
  🙅‍♂️ I’m not looking to any collaboration.
 
 - 📫 Reach me on https://www.linkedin.com/in/ajmalnasumudeen/...
