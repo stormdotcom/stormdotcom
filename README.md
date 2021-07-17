@@ -1,6 +1,7 @@
 
 ![Ajmal Nasumudee](https://metro.co.uk/wp-content/uploads/2015/02/giphy3.gif?quality=90&strip=all&zoom=1&resize=540%2C398)
-👋 Hi there, I’m Ajmal Nasumudeen  😎 
+
+|| 👋 Hi there, I’m Ajmal Nasumudeen  😎 
 
  💻 Love Linux system | Adminstration & Networking
   
