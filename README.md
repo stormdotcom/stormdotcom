@@ -6,7 +6,7 @@
  
 ![Ajmal Nasumudeen](https://metro.co.uk/wp-content/uploads/2015/02/giphy3.gif?quality=90&strip=all&zoom=1&resize=540%2C398)
 
- 👀 i do network pogramming with python.
+ 👀 I do network pogramming with python.
     
  🌱 I’m currently learning MERN Stack Development 
  
