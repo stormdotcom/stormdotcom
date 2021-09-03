@@ -6,9 +6,8 @@
  
 ![Ajmal Nasumudeen](https://metro.co.uk/wp-content/uploads/2015/02/giphy3.gif?quality=90&strip=all&zoom=1&resize=540%2C398)
 
- 👀 I’m currently upto Web Development and Web Pentesting.
-    Sometimes I do python programming for building tools related to Pentesting
-
+ 👀 i do network pogramming with python.
+    
  🌱 I’m currently learning MERN Stack Development 
  
  ![Web developer](https://media.tenor.com/images/083f8371b1f455f78558d76a090248e5/tenor.gif)
