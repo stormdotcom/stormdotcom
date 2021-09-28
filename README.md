@@ -12,7 +12,7 @@
  
  ![Web developer](https://media.tenor.com/images/083f8371b1f455f78558d76a090248e5/tenor.gif)
  
- 🙅‍♂️ I’m not looking to any collaboration.
+ 🙅‍♂️ I’m not looking for any collaboration.
 
 - 📫 Reach me on https://www.linkedin.com/in/ajmalnasumudeen/...
 - 📡 My Blog : https://ajmal-nasumudeen.medium.com/
