@@ -6,13 +6,13 @@
  
 ![Ajmal Nasumudeen](https://metro.co.uk/wp-content/uploads/2015/02/giphy3.gif?quality=90&strip=all&zoom=1&resize=540%2C398)
 
- 👀 I do network pogramming with python.
+ 👀 I do network programming with python.
     
  🌱 I’m currently learning MERN Stack Development 
  
  ![Web developer](https://media.tenor.com/images/083f8371b1f455f78558d76a090248e5/tenor.gif)
  
- 🙅‍♂️ I’m not looking for any collaboration.
+- 🙋‍♂️ Open for collab.
 
 - 📫 Reach me on https://www.linkedin.com/in/ajmalnasumudeen/...
 - 📡 My Blog : https://ajmal-nasumudeen.medium.com/
