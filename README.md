@@ -42,7 +42,7 @@
 <a href="https://www.linkedin.com/in/ajmalnasumudeen//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ajmal%20Nasumudeen-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com//"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ajmalnasumudeen-blue?style=flat-square&logo=instagram"></a>
 <a href="https://twitter.com/notjustmachine"><img alt="Twitter" src="https://img.shields.io/badge/twitter-nojustmachine-red?style=flat-square&logo=twitter"></a>
-<a href="https://ajmal-nasumudeen.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/medium-blog-black-white></a>
+<a href="https://ajmal-nasumudeen.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/medium-blog-black-white"></a>
 </p>
 - 🙋‍♂️ Open for collab.
 - 
