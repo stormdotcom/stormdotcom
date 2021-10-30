@@ -43,15 +43,13 @@
 <a href="https://www.instagram.com//"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ajmalnasumudeen-blue?style=flat-square&logo=instagram"></a>
 <a href="https://twitter.com/notjustmachine"><img alt="Twitter" src="https://img.shields.io/badge/twitter-nojustmachine-red?style=flat-square&logo=twitter"></a>
 </p>
-<a href="https://ajmal-nasumudeen.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-ajmal-nasumudeen-black?style=flat-square&logo=medium"></a>
+<a href="https://ajmal-nasumudeen.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-ajmal-nasumudeen-black?style=flat-square&logo=blog"></a>
 </p>
 - 🙋‍♂️ Open for collab.
 ⭐️ From [Ajmal Nasumuden](https://github.com/stormdotcom)
  
 
 
-- 📫 Reach me on https://www.linkedin.com/in/ajmalnasumudeen/...
-- 📡 My Blog : https://ajmal-nasumudeen.medium.com/
 
 <!---
 stormdotcom/stormdotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
