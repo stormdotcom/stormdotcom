@@ -3,7 +3,8 @@
  👋 Hi there, I’m Ajmal Nasumudeen  😎 
 
  💻 Love Linux systems |  Learning about Adminstration & Networking
-  🌱 I’m currently upto MERN Stack Development 
+ 
+ 🌱 I’m currently upto MERN Stack Development 
  
  ![Web developer](https://media.tenor.com/images/083f8371b1f455f78558d76a090248e5/tenor.gif)
 
