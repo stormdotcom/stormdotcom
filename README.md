@@ -39,14 +39,16 @@
 
 <p align="center">
 <a href="https://ajmal-nasumudeen.netlify.app//"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ajmalnasumudeen//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ajmal%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com//"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="https://twitter.com/notjustmachine"><img alt="Twitter" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ajmalnasumudeen//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ajmal%20Nasumudeen-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com//"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ajmalnasumudeen-blue?style=flat-square&logo=instagram"></a>
+<a href="https://twitter.com/notjustmachine"><img alt="Twitter" src="https://img.shields.io/badge/twitter-nojustmachine-red?style=flat-square&logo=twitter"></a>
 </p>
-
+<a href="https://ajmal-nasumudeen.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-ajmal-nasumudeen-black?style=flat-square&logo=medium"></a>
+</p>
+- 🙋‍♂️ Open for collab.
 ⭐️ From [Ajmal Nasumuden](https://github.com/stormdotcom)
  
-- 🙋‍♂️ Open for collab.
+
 
 - 📫 Reach me on https://www.linkedin.com/in/ajmalnasumudeen/...
 - 📡 My Blog : https://ajmal-nasumudeen.medium.com/
