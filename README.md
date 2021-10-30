@@ -31,7 +31,7 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Canava](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![Canava](https://img.shields.io/badge/Canva-__Design-9cf)
 
 <br/>
     
@@ -39,7 +39,7 @@
 
 <p align="center">
 <a href="https://ajmal-nasumudeen.netlify.app//"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ajmalnasumudeen//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ajmalnasumudeen//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ajmal%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com//"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="https://twitter.com/notjustmachine"><img alt="Twitter" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
