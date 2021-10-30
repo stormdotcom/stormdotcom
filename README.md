@@ -47,7 +47,8 @@
 </p>
 - 🙋‍♂️ Open for collab.
 - 
-⭐️ From [Ajmal Nasumuden] (https://github.com/stormdotcom)
+
+⭐️ From [stormdotcom](https://github.com/stormdotcom)
  
 
 
