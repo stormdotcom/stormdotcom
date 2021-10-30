@@ -1,6 +1,6 @@
 
 
- #👋 Hi there, I’m Ajmal Nasumudeen  😎 
+ # Hi there 👋, I’m Ajmal Nasumudeen  😎 
 
  💻 Love Linux systems |  Learning about Adminstration & Networking
  
