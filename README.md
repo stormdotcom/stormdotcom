@@ -6,7 +6,6 @@
  
  🌱 I’m currently upto MERN Stack Development 
  
- 🙋‍♂️ Open for collab.
  
  ![Web developer](https://media.tenor.com/images/083f8371b1f455f78558d76a090248e5/tenor.gif)
 
@@ -52,7 +51,7 @@
 <a href="https://ajmal-nasumudeen.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/medium-blog-black--white"></a>
 </p>
 
-
+ 🙋‍♂️ Open for collab.
 ⭐️ From [stormdotcom](https://github.com/stormdotcom)
  
 
