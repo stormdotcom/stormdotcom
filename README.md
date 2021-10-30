@@ -36,6 +36,11 @@
   ![Canava](https://img.shields.io/badge/Canva-__Design-9cf)
 
 <br/>
+
+<a href="https://github.com/stormdotcom">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stormdotcom&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormdotcom&theme=buefy&layout=compact" />
+</a>
     
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
