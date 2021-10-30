@@ -46,7 +46,8 @@
 <a href="https://ajmal-nasumudeen.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-ajmal-nasumudeen-black?style=flat-square&logo=blog"></a>
 </p>
 - 🙋‍♂️ Open for collab.
-⭐️ From [Ajmal Nasumuden](https://github.com/stormdotcom)
+- 
+⭐️ From [Ajmal Nasumuden] (https://github.com/stormdotcom)
  
 
 
