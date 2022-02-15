@@ -1,10 +1,11 @@
 
 
  # Hi there 👋, I’m Ajmal Nasumudeen  😎 
-
+## MERN Stack Developer :spider_web: 
  💻 Love Linux systems | Adminstration & Networking
  
- 🌱 I’m currently upto MERN Stack Development 
+ 
+ 🌱 Angular and DevOps
  
  
  ![Web developer](https://media.tenor.com/images/083f8371b1f455f78558d76a090248e5/tenor.gif)
