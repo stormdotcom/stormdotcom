@@ -53,7 +53,7 @@
 </p>
 
 
-⭐️ From [Ajmal Nasumudeen](https://github.com/ajmalnasumudeen)
+⭐️ From [Ajmal Nasumudeen](https://github.com/ajmalnasumudeen2)
  
 
 
