@@ -2,7 +2,7 @@
 
  # Hi there 👋, I’m Ajmal Nasumudeen  😎 
 ## MERN Stack Developer :spider_web: 
- 💻 Love Linux systems | Adminstration & Networking
+ 💻 Passiont about Linux systems | Adminstration & Networking
  
  
  🌱 Angular and DevOps
