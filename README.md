@@ -52,8 +52,6 @@
 <a href="https://ajmal-nasumudeen.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/medium-blog-black--white"></a>
 </p>
 
-
-⭐️ From [Ajmal Nasumudeen](https://github.com/ajmalnasumudeen2)
  
 
 
