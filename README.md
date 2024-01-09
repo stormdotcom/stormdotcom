@@ -1,7 +1,8 @@
 
 
  # Hi there 👋, I’m Ajmal Nasumudeen  😎 
-## MERN Stack Developer :spider_web: 
+## Software Developer => MERN Stack Developer :spider_web: 
+## Tech Enthusiast | A Good Learner
  💻 Passionate about Linux systems | Networking
  
  
