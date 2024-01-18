@@ -48,7 +48,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://ajmal-nasumudeen.netlify.app//"><img alt="Website" src="https://img.shields.io/badge/Website-www.ajmalnasumudeen.netlify.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://ajmalnasumudeen.in//"><img alt="Website" src="https://img.shields.io/badge/Website-ajmalnasumudeen.in-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ajmalnasumudeen//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ajmal%20Nasumudeen-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com//"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ajmalnasumudeen-blue?style=flat-square&logo=instagram"></a>
 <a href="https://twitter.com/notjustmachine"><img alt="Twitter" src="https://img.shields.io/badge/twitter-nojustmachine-red?style=flat-square&logo=twitter"></a>
