@@ -5,7 +5,8 @@
 ## Tech Enthusiast 
  💻 Passionate about Linux systems | Networking
  
- 
+ More in
+ [ajmalnasumudeen.in](ajmalnasumudeen.in)
  
  ![Web developer](https://media.tenor.com/images/083f8371b1f455f78558d76a090248e5/tenor.gif)
 
