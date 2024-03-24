@@ -3,7 +3,9 @@
  # Hi there 👋, I’m Ajmal Nasumudeen  😎 
 ## Software Engineer :spider_web: 
 ## Tech Enthusiast 
- 💻 Passionate about Linux systems | Networking
+ 💻 Passionate about Computer Science
+
+ - 🪴 Hacktoberfest '21 & '23 Contributor: Contributed to queuing app & vulnerability scanner projects, demonstrating commitment to open-source collaboration & cybersecurity.
  
  More in
 
