@@ -1,11 +1,19 @@
 
 
- # Hi there 👋, I’m Ajmal Nasumudeen  😎 
+ # Ajmal Nasumudeen  😎 
 ## Software Engineer :spider_web: 
 ## Tech Enthusiast 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Javascript+Developer;Nodejs+Express+Mongodb;Reactjs+Vuejs+Nextjs+Flutter;Docker+Kubernetes+Microservices;DS%20|%20Algorithms%20;Specialist%20on%20Debugging;;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
  💻 Passionate about Computer Science
 
  - 🪴 Hacktoberfest '21 & '23 Contributor: Contributed to queuing app & vulnerability scanner projects, demonstrating commitment to open-source collaboration & cybersecurity.
+
+[![@Ajmal's Holopin board](https://holopin.me/stormdotcom)](https://holopin.io/@stormdotcom)
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
  
  More in
 
