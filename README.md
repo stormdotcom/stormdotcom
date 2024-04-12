@@ -20,12 +20,6 @@
 - [NextJS overview from reactjs](https://ajmalnasumudeen.in/blog/87)
 - [Sofware Engineering Myth's](https://www.linkedin.com/feed/update/urn:li:activity:7125025612926263296/)
 
-### Overview
-
-In many industries, unexpected equipment failures can lead to significant downtime and costly repairs. Predictive maintenance aims to mitigate these risks by leveraging sensor data to anticipate when equipment is likely to fail, allowing for proactive maintenance to be performed.
-
-This project focuses on predicting engine failures using sensor measurements. By analyzing historical sensor data from engines, machine learning models can be trained to identify patterns indicative of imminent failure. This enables maintenance teams to intervene before a breakdown occurs, reducing downtime and maintenance costs.
-
 
  More in
 
@@ -78,6 +72,9 @@ This project focuses on predicting engine failures using sensor measurements. By
 <a href="https://twitter.com/notjustmachine"><img alt="Twitter" src="https://img.shields.io/badge/twitter-nojustmachine-red?style=flat-square&logo=twitter"></a>
 <a href="https://ajmal-nasumudeen.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/medium-blog-black--white"></a>
 </p>
+
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg)](https://www.buymeacoffee.com/ajmaln73m)
 
  
 
