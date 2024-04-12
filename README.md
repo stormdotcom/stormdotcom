@@ -11,10 +11,7 @@
 
  - 🪴 Hacktoberfest '21 & '23 Contributor: Contributed to queuing app & vulnerability scanner projects, demonstrating commitment to open-source collaboration & cybersecurity.
 
-[![@Ajmal's Holopin board](https://holopin.me/stormdotcom)](https://holopin.io/@stormdotcom)
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
- 
+[![@stormdotcom's Holopin badgese](https://holopin.me/stormdotcom)](https://holopin.io/@stormdotcom)
  More in
 
  [ajmalnasumudeen.in]( https://ajmalnasumudeen.in/)
