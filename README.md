@@ -12,11 +12,28 @@
  - 🪴 Hacktoberfest '21 & '23 Contributor: Contributed to queuing app & vulnerability scanner projects, demonstrating commitment to open-source collaboration & cybersecurity.
 
  
+# 🔧 Latest Work
+
+- React Vuln Scanner
+
+# 📰 Latest Post
+- [NextJS overview from reactjs](https://ajmalnasumudeen.in/blog/87)
+- [Sofware Engineering Myth's](https://www.linkedin.com/feed/update/urn:li:activity:7125025612926263296/)
+
+### Overview
+
+In many industries, unexpected equipment failures can lead to significant downtime and costly repairs. Predictive maintenance aims to mitigate these risks by leveraging sensor data to anticipate when equipment is likely to fail, allowing for proactive maintenance to be performed.
+
+This project focuses on predicting engine failures using sensor measurements. By analyzing historical sensor data from engines, machine learning models can be trained to identify patterns indicative of imminent failure. This enables maintenance teams to intervene before a breakdown occurs, reducing downtime and maintenance costs.
+
+
  More in
 
  [ajmalnasumudeen.in]( https://ajmalnasumudeen.in/)
  
  ![Web developer](https://media.tenor.com/images/083f8371b1f455f78558d76a090248e5/tenor.gif)
+
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
