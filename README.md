@@ -17,7 +17,7 @@
 - React Vuln Scanner
 
 # 📰 Latest Post
-- [ReactJS 19 Unpacked]([https://ajmalnasumudeen.in/blog/87](https://ajmalnasumudeen.in/blog/react-19-unpacked?type=front-ends&md=true))
+- [ReactJS 19 Unpacked](https://ajmalnasumudeen.in/blog/react-19-unpacked?type=front-ends&md=true)
 - [Sofware Design Pattern](https://ajmalnasumudeen.in/blog/software-design-pattern?type=software-engineering&md=true)
 
 
