@@ -14,7 +14,7 @@
  
 # 🔧 Latest Work
 
-- React Vuln Scanner
+- Chrome Extension For Different Mode of browsing
 
 # 📰 Latest Post
 - [ReactJS 19 Unpacked](https://ajmalnasumudeen.in/blog/react-19-unpacked?type=front-ends&md=true)
