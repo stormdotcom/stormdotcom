@@ -17,8 +17,8 @@
 - React Vuln Scanner
 
 # 📰 Latest Post
-- [NextJS overview from reactjs](https://ajmalnasumudeen.in/blog/87)
-- [Sofware Engineering Myth's](https://www.linkedin.com/feed/update/urn:li:activity:7125025612926263296/)
+- [ReactJS 19 Unpacked]([https://ajmalnasumudeen.in/blog/87](https://ajmalnasumudeen.in/blog/react-19-unpacked?type=front-ends&md=true))
+- [Sofware Design Pattern](https://ajmalnasumudeen.in/blog/software-design-pattern?type=software-engineering&md=true)
 
 
  More in
