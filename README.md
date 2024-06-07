@@ -9,7 +9,7 @@
 </p>
  💻 Passionate about Computer Science
 
- - 🪴 Hacktoberfest '21 & '23 Contributor: Contributed to queuing app & vulnerability scanner projects, demonstrating commitment to open-source collaboration & cybersecurity.
+ - 🪴 Hacktoberfest '21 & '23 Contributor: Contributed to queuing app & vulnerability scanner npm library, demonstrating commitment to open-source collaboration & cybersecurity.
 
  
 # 🔧 Latest Work
