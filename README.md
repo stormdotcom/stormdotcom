@@ -14,7 +14,8 @@
  
 # 🔧 Latest Work
 
-- Chrome Extension For Different Mode of browsing
+- [StartSmart](https://chromewebstore.google.com/detail/startsmart/hjilijkndighcnhpfhfipfggcgipobon) Chrome Extension For Different Mode of browsing 
+- [GuardLink](https://chromewebstore.google.com/detail/aurdlink/) Web Url Vulnerability Scanner Scanner Chrome Extension
 
 # 📰 Latest Post
 - [ReactJS 19 Unpacked](https://ajmalnasumudeen.in/blog/react-19-unpacked?type=front-ends&md=true)
