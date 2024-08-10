@@ -26,8 +26,6 @@
 
  [ajmalnasumudeen.in]( https://ajmalnasumudeen.in/)
 
-[![Coding Profile](https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fwww.scaler.com%2Facademy%2Fprofile%2Ff53d232a3e93%2F&chs=180x180&choe=UTF-8&chld=L|2)](https://www.qr-code-generator.com/)
-
  
  ![Web developer](https://media.tenor.com/images/083f8371b1f455f78558d76a090248e5/tenor.gif)
 
