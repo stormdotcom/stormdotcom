@@ -62,10 +62,11 @@
 
 <br/>
 
-<a href="https://github.com/stormdotcom">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stormdotcom&theme=buefy&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormdotcom&theme=buefy&layout=compact" />
-</a>
+[![Top Langs]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=stormdotcom)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=stormdotcom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
     
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
