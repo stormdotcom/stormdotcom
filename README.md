@@ -62,10 +62,8 @@
 
 <br/>
 
-[![Top Langs]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=stormdotcom)](https://github.com/anuraghazra/github-readme-stats)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=stormdotcom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormdotcom)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormdotcom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
     
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
