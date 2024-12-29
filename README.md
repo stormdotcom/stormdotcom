@@ -1,7 +1,7 @@
 
 
  # Ajmal Nasumudeen  😎 
-## Software Engineer :spider_web: 
+## Software Engineer  :spider_web: 
 
 
 <p align="center">
@@ -23,7 +23,7 @@
 - [Sofware Design Pattern](https://ajmalnasumudeen.in/blog/software-design-pattern?type=software-engineering&md=true)
 
 
- More in
+ Check My portfolio
 
  [ajmalnasumudeen.in]( https://ajmalnasumudeen.in/)
 
