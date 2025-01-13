@@ -13,7 +13,8 @@
 
  
 # 🔧 Latest Work
-- [codex](https://github.com/stormdotcom/codex) AI pair programming extension for vscode
+- [QuickNoteAI]([https://chromewebstore.google.com/detail/startsmart/hjilijkndighcnhpfhfipfggcgipobon](https://quicknote.ajmalnasumudeen.in/)) Chrome Extension Summarise sessions and classes
+- [codex](https://github.com/stormdotcom/codex) AI pair programming extension for vs code
 - [Annotate X](https://annotate-x.netlify.app) AnnotateX is a powerful and user-friendly image annotation tool
 - [StartSmart](https://chromewebstore.google.com/detail/startsmart/hjilijkndighcnhpfhfipfggcgipobon) Chrome Extension For Different Mode of browsing 
 
