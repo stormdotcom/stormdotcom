@@ -9,8 +9,7 @@
 </p>
  💻 Passionate about Computer Science
 
- - 🪴 Hacktoberfest '21 & '23 Contributor: Contributed to queuing app & vulnerability scanner npm library, demonstrating commitment to open-source collaboration & cybersecurity.
-
+- Currently focucsed on Product Development
  
 # 🔧 Latest Work
 - [QuickNoteAI](https://quicknote.ajmalnasumudeen.in/) Chrome Extension Summarise sessions and classes
