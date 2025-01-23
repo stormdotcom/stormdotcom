@@ -19,8 +19,8 @@
 
 
 # 📰 Latest Post
-- [ReactJS 19 Unpacked](https://ajmalnasumudeen.in/blog/react-19-unpacked?type=front-ends&md=true)
-- [Sofware Design Pattern](https://ajmalnasumudeen.in/blog/software-design-pattern?type=software-engineering&md=true)
+- [Zookeeper](https://ajmalnasumudeen.in/blog/zoo-keeper-master-of-the-game)
+- [How flipkart | Netflix handle Billions of request](https://ajmalnasumudeen.in/blog/how-kafka-handles-billions-of-rqs)
 
 
  Check My portfolio
