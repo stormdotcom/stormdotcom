@@ -9,7 +9,7 @@
 </p>
  💻 Passionate about Computer Science
 
-- Currently focucsed on Product Development
+- Currently focused on Product Development
  
 # 🔧 Latest Work
 - [AquaTrack](https://github.com/stormdotcom/aqua-track/wiki) Chrome Extension for track water intake
