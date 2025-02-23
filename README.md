@@ -13,7 +13,7 @@
  
 # 🔧 Latest Work
 - [AquaTrack](https://github.com/stormdotcom/aqua-track/wiki) Chrome Extension for track water intake
-- [QuickNoteAI](https://quicknote.ajmalnasumudeen.in/) Chrome Extension Summarise sessions and classes
+- [Qnotes AI ](https://qnotes.in/)  Summarise sessions and classes
 - [codex](https://github.com/stormdotcom/codex) AI pair programming extension for vs code
 - [Annotate X](https://annotate-x.netlify.app) AnnotateX is a powerful and user-friendly image annotation tool
 - [StartSmart](https://chromewebstore.google.com/detail/startsmart/hjilijkndighcnhpfhfipfggcgipobon) Chrome Extension For Different Mode of browsing 
