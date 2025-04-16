@@ -13,7 +13,7 @@
  
 # 🔧 Latest Work
 - [AquaTrack](https://github.com/stormdotcom/aqua-track/wiki) Chrome Extension for track water intake
-- [Qnotes AI ](https://qnotes.in/)] Chrome Extension for Summarise sessions and classes
+- [Qnotes AI ](https://qnotes.in/) Web Tools + Chrome Extension for Summarise sessions and classes
 - [Annotate X](https://annotate-x.netlify.app) AnnotateX is a powerful and user-friendly image annotation tool
 - [StartSmart](https://chromewebstore.google.com/detail/startsmart/hjilijkndighcnhpfhfipfggcgipobon) Chrome Extension For Different Mode of browsing 
 
