@@ -15,7 +15,7 @@
 
 - [Civic Hub](https://civichub.vercel.app/) Public Engagement Portal
 - [Resume Builder](https://resume-build-ai.vercel.app/) Online PDF Resume Builder
-- [HelpNearBy](https://helpnearby-landing.vercel.app/) HelpNearBy connects travelers and residents  with real-time help based on your location.
+- [HelpNearBy](https://helpnearby-landing.vercel.app/) connects travelers and residents  with real-time help based on your location.
 - [AquaTrack](https://github.com/stormdotcom/aqua-track/wiki) Chrome Extension for track water intake
 - [Qnotes AI ](https://qnotes.in/) Web Tools + Chrome Extension for Summarise sessions and classes
 
