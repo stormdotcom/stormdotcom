@@ -12,10 +12,12 @@
 - Currently focused on Product Development
  
 # 🔧 Latest Work
+
+- [Civic Hub](https://civichub.vercel.app/) Public Engagement Portal
+- [Resume Builder](https://resume-build-ai.vercel.app/) Online PDF Resume Builder
+- [HelpNearBy](https://helpnearby-landing.vercel.app/) HelpNearBy connects travelers and residents  with real-time help based on your location.
 - [AquaTrack](https://github.com/stormdotcom/aqua-track/wiki) Chrome Extension for track water intake
 - [Qnotes AI ](https://qnotes.in/) Web Tools + Chrome Extension for Summarise sessions and classes
-- [Annotate X](https://annotate-x.netlify.app) AnnotateX is a powerful and user-friendly image annotation tool
-- [StartSmart](https://chromewebstore.google.com/detail/startsmart/hjilijkndighcnhpfhfipfggcgipobon) Chrome Extension For Different Mode of browsing 
 
 
 # 📰 Latest Post
