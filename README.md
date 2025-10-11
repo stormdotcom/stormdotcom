@@ -21,8 +21,7 @@
 
 
 # 📰 Latest Post
-- [Zookeeper](https://ajmalnasumudeen.in/blog/zoo-keeper-master-of-the-game)
-- [How flipkart | Netflix handle Billions of request](https://ajmalnasumudeen.in/blog/how-kafka-handles-billions-of-rqs)
+
 
 
  Check My portfolio
