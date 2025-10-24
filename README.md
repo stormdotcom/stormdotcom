@@ -24,7 +24,8 @@
 
 
 
- Check My portfolio
+[How to Self-Host n8n on Ubuntu, Docker, Nignx](https://ajmalnasumudeen.in/posts/self-host-n8n-ubuntu-docker-nginx)
+[Drizzle ORM — From Setup to Schema](https://ajmalnasumudeen.in/posts/drizzle-orm-first-impressions)
 
  [ajmalnasumudeen.in]( https://ajmalnasumudeen.in/)
 
