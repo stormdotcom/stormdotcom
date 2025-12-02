@@ -1,7 +1,7 @@
 
 
  # Ajmal Nasumudeen  😎 
-## Software Engineer  :spider_web: 
+
 
 
 <p align="center">
