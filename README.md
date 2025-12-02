@@ -13,10 +13,10 @@
  
 # 🔧 Latest Work (Personal)
 
-- [MVP Radar](https://mvpradar.ajmalnasumudeen.in/) Product Idea Sourcing & Validation Tool
+- [MVP Radar](https://mvpradar.ajmalnasumudeen.in) Product Idea Sourcing & Validation Tool
 - [Civic Hub](https://civichub.vercel.app/) Public Engagement Portal
-- [ReDraft - Resume Builder](https://redraft.qnotes.iin/) Online PDF Resume Builder
-- [HelpNearBy](https://helpnearby-landing.vercel.app/) connects travelers and residents  with real-time help based on your location.
+- [ReDraft - Resume Builder](https://redraft.qnotes.in) Online PDF Resume Builder
+- [HelpNearBy](https://helpnearby-landing.vercel.app) connects travelers and residents  with real-time help based on your location.
 - [Qnotes AI ](https://qnotes.in/) Web Tools + Chrome Extension for Summarise sessions and classes
 - [AquaTrack](https://github.com/stormdotcom/aqua-track/wiki) Chrome Extension for track water intake
 
