@@ -14,15 +14,15 @@
 # 🔧 Latest Work (Personal)
 
 - [MVP Radar](https://mvpradar.ajmalnasumudeen.in) Product Idea Sourcing & Validation Tool
-- [Civic Hub](https://civichub.vercel.app/) Public Engagement Portal
 - [ReDraft - Resume Builder](https://redraft.qnotes.in) Online PDF Resume Builder
 - [HelpNearBy](https://helpnearby-landing.vercel.app) connects travelers and residents  with real-time help based on your location.
 - [Qnotes AI ](https://qnotes.in/) Web Tools + Chrome Extension for Summarise sessions and classes
 - [AquaTrack](https://github.com/stormdotcom/aqua-track/wiki) Chrome Extension for track water intake
 
 
-# 📰 Latest Post
-
+# 🔓  Open Source
+- [Flashify Notification](https://www.npmjs.com/package/@ajmal_n/flashify-react) a lightweight npm package for toast notification, customizable
+- [Civic Hub](https://civichub.vercel.app/) Public Engagement Portal
 
 
 - [How to Self-Host n8n on Ubuntu, Docker, Nignx](https://ajmalnasumudeen.in/posts/self-host-n8n-ubuntu-docker-nginx)
