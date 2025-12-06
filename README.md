@@ -11,7 +11,7 @@
 
 - Focused on Product Development
  
-# 🔧 Latest Work (Personal)
+# 🔧 Latest Work
 
 - [MVP Radar](https://mvpradar.ajmalnasumudeen.in) Product Idea Sourcing & Validation Tool
 - [ReDraft - Resume Builder](https://redraft.qnotes.in) Online PDF Resume Builder
