@@ -15,7 +15,7 @@
 
 - [MVP Radar](https://mvpradar.ajmalnasumudeen.in) Product Idea Sourcing & Validation Tool
 - [ReDraft - Resume Builder](https://redraft.qnotes.in) Online PDF Resume Builder
-- [HelpNearBy](https://helpnearby-landing.vercel.app) connects travelers and residents  with real-time help based on your location.
+- [CloseByHUb](http://closebyhub.vercel.app/)  A neighborhood discovery and recommendation network powered by local people.
 - [Qnotes AI ](https://qnotes.in/) Web Tools + Chrome Extension for Summarise sessions and classes
 - [AquaTrack](https://github.com/stormdotcom/aqua-track/wiki) Chrome Extension for track water intake
 
