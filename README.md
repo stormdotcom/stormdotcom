@@ -13,7 +13,7 @@
  
 # 🔧 Latest Work
 
-- [NearHub](http://nearhub.online)  A neighborhood discovery and recommendation network powered by local people.
+- [HubNear](https://hubnear.online)  A neighborhood discovery and recommendation network powered by local people.
 - [MVP Radar](https://mvpradar.ajmalnasumudeen.in) Product Idea Sourcing & Validation Tool
 - [ReDraft - Resume Builder](https://redraft.qnotes.in) Online PDF Resume Builder
 - [Qnotes AI ](https://qnotes.in/) Web Tools + Chrome Extension for Summarise sessions and classes
