@@ -23,7 +23,8 @@
 # 🔓  Open Source
 - [Flashify Notification](https://www.npmjs.com/package/@ajmal_n/flashify-react) a lightweight npm package for toast notification, customizable
 - [Civic Hub](https://civichub.vercel.app/) Public Engagement Portal
-
+- [TabPilot](https://github.com/stormdotcom/tabpilot-extension) TabPilot provides a unified media remote in the browser popup,
+= [AdTrace](https://github.com/stormdotcom/adtrace-extension) Surgical ad blocking with DevTools-level visibility. Built for web developers.
 
 # ✍️   Latest Posts
 - [How to Self-Host n8n on Ubuntu, Docker, Nignx](https://ajmalnasumudeen.in/posts/self-host-n8n-ubuntu-docker-nginx)
