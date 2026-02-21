@@ -12,7 +12,7 @@
 - Focused on Product Development
  
 # 🔧 Latest Work
-- [OpenConsole](https://openconsole.vercel.app/) Not a Postman replacement, project specific API key testing, LLM key test, mobile syncing, without exposure to the internet
+- [OpenConsole](https://openconsole.vercel.app/) Not a Postman replacement, project-specific API key testing, no cloud, p2p sync
 - [HubNear](https://hubnear.online)  A neighborhood discovery and recommendation network powered by local people.
 - [MVP Radar](https://mvpradar.ajmalnasumudeen.in) Product Idea Sourcing & Validation Tool
 - [ReDraft - Resume Builder](https://redraft.qnotes.in) Online PDF Resume Builder
